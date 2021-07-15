@@ -1,0 +1,5 @@
+package GameBackend.Abstracts;
+
+public interface CampaingService {
+
+}

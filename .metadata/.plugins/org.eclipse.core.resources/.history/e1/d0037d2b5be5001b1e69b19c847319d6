@@ -1,0 +1,5 @@
+package GameBackend.Entities;
+
+public class Gamer {
+
+}

@@ -1,0 +1,5 @@
+package GameBackend.Concrete;
+
+public class SaleManager {
+
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="GameBackend.Abstracts.Entity"/>
+    <fullyQualifiedTypeName name="GameBackend.Abstracts.BaseGamerManager"/>
+    <fullyQualifiedTypeName name="GameBackend.Abstracts.CampaingService"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="GameBackend.Entities.Campaing"/>
+    <fullyQualifiedTypeName name="GameBackend.Entities.Product"/>
+    <fullyQualifiedTypeName name="GameBackend.Abstracts.GamerService"/>
+    <fullyQualifiedTypeName name="GameBackend.Entities.Gamer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="GameBackend.Abstracts.PersonCheckService"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tcKimlik.WS.KPSPublicSoap"/>
+</qualifiedTypeNameHistroy>
